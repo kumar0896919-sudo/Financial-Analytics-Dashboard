@@ -2,6 +2,8 @@
 
 This dashboard brings together **Crypto, Stocks, and ETFs** into one interactive platform, making market analysis easier and visually insightful.
 
+Project Links :- https://app.powerbi.com/view?r=eyJrIjoiZDBmY2JhY2UtOGNmYi00NDQzLTg1NmYtMjkxOGFiNmQ2OGVjIiwidCI6IjNmYTRhNDhjLWRkODMtNDc1MS1iOWMxLWJiZmVkNmNiOTEzOSJ9
+
  **Key Features of the Power BI Dashboard:**
 • Interactive candlestick charts
 • Category switching: Crypto / Stocks / ETFs
